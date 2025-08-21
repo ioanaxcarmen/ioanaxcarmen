@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ioana</h1>
-<h3 align="center">a business informatics student</h3>
+<h3 align="center">Business Information Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ioanaxcarmen&label=Profile%20views&color=0e75b6&style=flat" alt="ioanaxcarmen" /> </p>
 
